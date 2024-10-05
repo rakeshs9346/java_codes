@@ -1,0 +1,294 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "UnionArrays",
+            "request": "launch",
+            "mainClass": "Array.UnionArrays",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "Practise",
+            "request": "launch",
+            "mainClass": "Practise",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreeDS",
+            "request": "launch",
+            "mainClass": "Trees.BinaryTreeDS",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "FileHandling",
+            "request": "launch",
+            "mainClass": "FileHandling",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "FirstAndLastOccurances",
+            "request": "launch",
+            "mainClass": "Array.FirstAndLastOccurances",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "FloorAndCeil",
+            "request": "launch",
+            "mainClass": "Array.FloorAndCeil",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "RightRotateArray",
+            "request": "launch",
+            "mainClass": "Array.RightRotateArray",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Array.BinarySearch",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "LeftRotateArrayDPlaces",
+            "request": "launch",
+            "mainClass": "Array.LeftRotateArrayDPlaces",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "LowerBound",
+            "request": "launch",
+            "mainClass": "Array.LowerBound",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "Array.RemoveDuplicates",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "RotateArray",
+            "request": "launch",
+            "mainClass": "Array.RotateArray",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargest",
+            "request": "launch",
+            "mainClass": "Array.SecondLargest",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "SecondSmallest",
+            "request": "launch",
+            "mainClass": "Array.SecondSmallest",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "SortedArray",
+            "request": "launch",
+            "mainClass": "Array.SortedArray",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "CircularQueueArray",
+            "request": "launch",
+            "mainClass": "CircularQueueArray",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "DSA",
+            "request": "launch",
+            "mainClass": "DSA",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "Hanoi",
+            "request": "launch",
+            "mainClass": "Hanoi",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "JdbcDemo",
+            "request": "launch",
+            "mainClass": "JdbcDemo",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "LinkedlistArray",
+            "request": "launch",
+            "mainClass": "Linkedlist.LinkedlistArray",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "Linkedlistds",
+            "request": "launch",
+            "mainClass": "Linkedlist.Linkedlistds",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "Prac",
+            "request": "launch",
+            "mainClass": "Prac",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "PractiseDsa",
+            "request": "launch",
+            "mainClass": "PractiseDsa",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "QueueArray",
+            "request": "launch",
+            "mainClass": "QueueArray",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "QueueArrayList",
+            "request": "launch",
+            "mainClass": "QueueArrayList",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "QueueLinkedlist",
+            "request": "launch",
+            "mainClass": "QueueLinkedlist",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "Queueds",
+            "request": "launch",
+            "mainClass": "Queueds",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "ArraySorting",
+            "request": "launch",
+            "mainClass": "Sorting.ArraySorting",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "Sorting.MergeSort",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "Sorting.QuickSort",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "StackArray",
+            "request": "launch",
+            "mainClass": "StackArray",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "StackArrayList",
+            "request": "launch",
+            "mainClass": "StackArrayList",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "StackLinkedList",
+            "request": "launch",
+            "mainClass": "StackLinkedList",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "strings.Anagram",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "strings.Palindrome",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "strings.ReverseString",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
+            "name": "ValidParentheses",
+            "request": "launch",
+            "mainClass": "strings.ValidParentheses",
+            "projectName": "java_e352baea"
+        }
+    ]
+}
