@@ -26,7 +26,7 @@ public class QueueArray{
         }
         public int remove(){
             if(isEmpyty()){
-                System.out.println("stack is empty");
+                System.out.println("queue is empty");
                 return -1;
             }
              int front=arr[0];
