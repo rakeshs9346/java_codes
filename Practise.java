@@ -1,49 +1,60 @@
-class Node{
-    String string;
-    Node next;
-     
-    Node(String string){
-        this.string=string;
-        this.next=null;
-    }
 
-}
-
-class LinkedList{
-    Node head;
-
-    public boolean isEmpty(){
-        return head==null;
-    }
-    public void addFirst(String string){
-        Node newnode=new Node(string);
-
-        if(isEmpty()){
-            head=newnode;
-            return;
-        }
-        newnode.next=head;
-        head=newnode;
-    }
-    public void printList(){
-        if(isEmpty()){
-            System.out.println("list is empty");
-            return;
-        }
-        Node current=head;
-        while(current!=null){
-         System.out.println(current.string);
-         current=current.next;
-        }
-    }
-}
 public class Practise{
     public static void main(String[] args) {
-        
-        LinkedList list=new LinkedList();
-        list.addFirst("hello");
-        list.addFirst("world");
+       
+    //  int arr[]={0, 1, 9, 8, 4, 0, 0, 2, 7, 0, 6, 0, 9};
 
-        list.printList();
+    //  moveZerosToEnd(arr);
+    //  for(int n:arr){
+    //     System.out.print(n+" ");
+    //  }
+
+    //decimal to binary string -->binary string to reverse binary bits -->to decimal number
+
+    // int num=10;
+
+    // String binaryNum=Integer.toBinaryString(num);
+    // System.out.println(binaryNum);
+    
+    // StringBuilder sb=new StringBuilder();
+
+    // for(char ch:binaryNum.toCharArray()){
+    //     sb.append(ch=='0'?'1':'0');
+    // }
+
+    // String binary=sb.toString();
+    // System.out.println(binary);
+    // System.out.println(Integer.parseInt(binary,2));
+
+
+    
+    //  int num=5244;
+
+    //  int rev=0;
+    //  int product=1;
+
+    //  while(num>0){
+    //     rev=num%10;
+    //     product=product*rev;
+    //     num=num/10;
+
+    //  }
+    //  System.out.println(product);
+     
+
+    
+    }
+    public static void moveZerosToEnd(int[] arr){
+        int n=arr.length;
+        int index=0;
+
+        for(int i=0;i<n;i++){
+            if(arr[i]!=0){
+                arr[index++]=arr[i];
+            }
+        }
+        while(index<n){
+            arr[index++]=0;
+        }
     }
 }

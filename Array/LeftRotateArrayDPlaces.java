@@ -5,9 +5,9 @@ public class LeftRotateArrayDPlaces{
         int[] numbers={1,2,3,4,5,6,7};
         // leftRotateArray(numbers, 5);
 
-        leftRotate(numbers, 3);
+        int nums[]=leftRotateArray(numbers, 3);
 
-        for(int num:numbers){
+        for(int num:nums){
             System.out.print(num+" ");
         }
     }
@@ -23,7 +23,8 @@ public class LeftRotateArrayDPlaces{
 
         // Left rotate the array
         for (int i = 0; i < n; i++) {
-            result[i] = arr[(i + rotateBy) % n];
+           // result[i] = arr[(i + rotateBy) % n];---left rotate
+           result[(i+rotateBy)%n]=arr[i];  //-----right rotate
         }
 
         return result;

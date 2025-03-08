@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultiThreading",
+            "request": "launch",
+            "mainClass": "MultiThreading",
+            "projectName": "java_e352baea"
+        },
+        {
+            "type": "java",
             "name": "UnionArrays",
             "request": "launch",
             "mainClass": "Array.UnionArrays",
