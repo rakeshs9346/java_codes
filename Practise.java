@@ -1,6 +1,7 @@
 
 public class Practise{
     public static void main(String[] args) {
+        System.out.println("hello world");
        
     //  int arr[]={0, 1, 9, 8, 4, 0, 0, 2, 7, 0, 6, 0, 9};
 
@@ -41,7 +42,7 @@ public class Practise{
     //  }
     //  System.out.println(product);
      
-
+    
     
     }
     public static void moveZerosToEnd(int[] arr){
